@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6myvKD81WM=",
+  "dgSpecHash": "apYADYu28+w=",
   "success": true,
-  "projectFilePath": "C:\\Temp\\Parcial4\\tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\mleon\\OneDrive\\Desktop\\Metricas\\Parcial\\tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mleon\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
     "C:\\Users\\mleon\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
@@ -33,9 +33,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "Tests depends on Microsoft.NET.Test.Sdk (>= 17.8.2) but Microsoft.NET.Test.Sdk 17.8.2 was not found. Microsoft.NET.Test.Sdk 17.9.0 was resolved instead.",
-      "projectPath": "C:\\Temp\\Parcial4\\tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\mleon\\OneDrive\\Desktop\\Metricas\\Parcial\\tests\\Tests.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Temp\\Parcial4\\tests\\Tests.csproj",
+      "filePath": "C:\\Users\\mleon\\OneDrive\\Desktop\\Metricas\\Parcial\\tests\\Tests.csproj",
       "libraryId": "Microsoft.NET.Test.Sdk",
       "targetGraphs": [
         "net8.0"

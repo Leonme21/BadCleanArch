@@ -10,7 +10,7 @@
     },
     {
       "key": "sonar.scanner.bootstrapStartTime",
-      "value": "1764129930000"
+      "value": "1764129029000"
     },
     {
       "key": "sonar.projectKey",
@@ -250,7 +250,7 @@
     },
     {
       "key": "sonar.qualitygate.wait",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "sonar.visualstudio.enable",

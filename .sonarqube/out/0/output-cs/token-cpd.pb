@@ -1,102 +1,4 @@
-Ê
-1C:\Temp\Parcial4\src\Domain\Interfaces\ILogger.cs
-	namespace 	
-Domain
- 
-. 
-
-Interfaces 
-; 
-public 
-	interface 
-ILogger 
-{ 
-void 
-LogInformation	 
-( 
-string 
-message &
-)& '
-;' (
-void 
-
-LogWarning	 
-( 
-string 
-message "
-)" #
-;# $
-void		 
-LogError			 
-(		 
-string		 
-message		  
-,		  !
-	Exception		" +
-	exception		, 5
-=		6 7
-null		8 <
-)		< =
-;		= >
-}
-
- è
-:C:\Temp\Parcial4\src\Domain\Interfaces\IOrderRepository.cs
-	namespace 	
-Domain
- 
-. 
-
-Interfaces 
-; 
-public 
-	interface 
-IOrderRepository !
-{ 
-Task		 
-<		 	
-bool			 
->		 
-	SaveAsync		 
-(		 
-Order		 
-order		 $
-)		$ %
-;		% &
-Task
-
- 
-<
-
- 	
-IEnumerable
-
-	 
-<
-
- 
-Order
-
- 
->
-
- 
->
-
- 
-GetAllAsync
-
- (
-(
-
-( )
-)
-
-) *
-;
-
-* +
-} Ô
+Ô
 4C:\Temp\Parcial4\src\Domain\Services\OrderService.cs
 	namespace 	
 Domain
@@ -235,7 +137,105 @@ Interfaces 
 )9 :
 ;: ;
 }   
-}!! »
+}!! è
+:C:\Temp\Parcial4\src\Domain\Interfaces\IOrderRepository.cs
+	namespace 	
+Domain
+ 
+. 
+
+Interfaces 
+; 
+public 
+	interface 
+IOrderRepository !
+{ 
+Task		 
+<		 	
+bool			 
+>		 
+	SaveAsync		 
+(		 
+Order		 
+order		 $
+)		$ %
+;		% &
+Task
+
+ 
+<
+
+ 	
+IEnumerable
+
+	 
+<
+
+ 
+Order
+
+ 
+>
+
+ 
+>
+
+ 
+GetAllAsync
+
+ (
+(
+
+( )
+)
+
+) *
+;
+
+* +
+} Ê
+1C:\Temp\Parcial4\src\Domain\Interfaces\ILogger.cs
+	namespace 	
+Domain
+ 
+. 
+
+Interfaces 
+; 
+public 
+	interface 
+ILogger 
+{ 
+void 
+LogInformation	 
+( 
+string 
+message &
+)& '
+;' (
+void 
+
+LogWarning	 
+( 
+string 
+message "
+)" #
+;# $
+void		 
+LogError			 
+(		 
+string		 
+message		  
+,		  !
+	Exception		" +
+	exception		, 5
+=		6 7
+null		8 <
+)		< =
+;		= >
+}
+
+ »
 -C:\Temp\Parcial4\src\Domain\Entities\Order.cs
 	namespace 	
 Domain

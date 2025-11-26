@@ -218,8 +218,8 @@ C:\Temp\Parcial3\tests\obj\Debug\net8.0\refint\Tests.dll
 C:\Temp\Parcial3\tests\obj\Debug\net8.0\Tests.pdb
 C:\Temp\Parcial3\tests\obj\Debug\net8.0\Tests.genruntimeconfig.cache
 C:\Temp\Parcial3\tests\obj\Debug\net8.0\ref\Tests.dll
-C:\Temp\Parcial4\tests\bin\Debug\net8.0\testhost.dll
 C:\Temp\Parcial4\tests\bin\Debug\net8.0\testhost.exe
+C:\Temp\Parcial4\tests\bin\Debug\net8.0\testhost.dll
 C:\Temp\Parcial4\tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Temp\Parcial4\tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Temp\Parcial4\tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll

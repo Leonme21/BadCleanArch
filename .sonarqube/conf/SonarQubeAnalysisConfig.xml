@@ -152,7 +152,7 @@
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">http://localhost:9000</Property>
-    <Property Name="sonar.qualitygate.wait">false</Property>
+    <Property Name="sonar.qualitygate.wait">true</Property>
   </LocalSettings>
   <ScannerOptsSettings />
   <AnalyzersSettings>
