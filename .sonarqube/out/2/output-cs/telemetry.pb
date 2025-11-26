@@ -1,0 +1,1 @@
+OR9C:\Temp\Parcial4\src\Infrastructure\Infrastructure.csproj¢net8.0òCSharp12

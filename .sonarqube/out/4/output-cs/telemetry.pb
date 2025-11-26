@@ -1,0 +1,1 @@
+?R)C:\Temp\Parcial4\src\WebApi\WebApi.csproj¢net8.0òCSharp12

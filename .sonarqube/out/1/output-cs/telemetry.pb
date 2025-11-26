@@ -1,0 +1,1 @@
+IR3C:\Temp\Parcial4\src\Application\Application.csproj¢net8.0òCSharp12

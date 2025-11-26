@@ -1,0 +1,4 @@
+﻿C:\Temp\Parcial4\src\Infrastructure\Data\BadDb.cs
+C:\Temp\Parcial4\src\Infrastructure\Logging\ConsoleLogger.cs
+C:\Temp\Parcial4\src\Infrastructure\Logging\Logger.cs
+C:\Temp\Parcial4\src\Infrastructure\Repositories\OrderRepository.cs

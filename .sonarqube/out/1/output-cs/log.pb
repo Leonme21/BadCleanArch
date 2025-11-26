@@ -1,0 +1,1 @@
+Roslyn version: 4.14.0.0Language version: CSharp12!Concurrent execution: enabledtpFile 'C:\Temp\Parcial4\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs' was recognized as generatedˆƒFile 'C:\Temp\Parcial4\src\Application\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs' was recognized as generated

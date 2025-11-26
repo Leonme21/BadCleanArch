@@ -1,0 +1,1 @@
+?R)C:\Temp\Parcial4\src\Domain\Domain.csproj¢net8.0òCSharp12

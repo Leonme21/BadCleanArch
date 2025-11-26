@@ -1,0 +1,260 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1764129930000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "BadCleanArch"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Temp\\Parcial4"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Temp\\Parcial4"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "C:\\Temp\\Parcial4\\.vs\\BadCleanArch\\v17\\DocumentLayout.json,C:\\Temp\\Parcial4\\run-sonar-analysis.ps1"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "11111111-1111-1111-1111-111111111111,22222222-2222-2222-2222-222222222222,33333333-3333-3333-3333-333333333333,55555555-5555-5555-5555-555555555555,44444444-4444-4444-4444-444444444444"
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.projectKey",
+      "value": "BadCleanArch:11111111-1111-1111-1111-111111111111"
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.projectName",
+      "value": "Domain"
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.projectBaseDir",
+      "value": "C:\\Temp\\Parcial4\\src\\Domain"
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.working.directory",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.sources",
+      "value": "C:\\Temp\\Parcial4\\src\\Domain\\Entities\\Order.cs,C:\\Temp\\Parcial4\\src\\Domain\\Interfaces\\ILogger.cs,C:\\Temp\\Parcial4\\src\\Domain\\Interfaces\\IOrderRepository.cs,C:\\Temp\\Parcial4\\src\\Domain\\Services\\OrderService.cs,C:\\Temp\\Parcial4\\src\\Domain\\obj\\Domain.csproj.nuget.dgspec.json,C:\\Temp\\Parcial4\\src\\Domain\\obj\\project.assets.json,C:\\Temp\\Parcial4\\src\\Domain\\bin\\Debug\\net8.0\\Domain.deps.json"
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "11111111-1111-1111-1111-111111111111.sonar.cs.scanner.telemetry",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.projectKey",
+      "value": "BadCleanArch:22222222-2222-2222-2222-222222222222"
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.projectName",
+      "value": "Application"
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.projectBaseDir",
+      "value": "C:\\Temp\\Parcial4\\src\\Application"
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.working.directory",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.sources",
+      "value": "C:\\Temp\\Parcial4\\src\\Application\\obj\\Application.csproj.nuget.dgspec.json,C:\\Temp\\Parcial4\\src\\Application\\obj\\project.assets.json,C:\\Temp\\Parcial4\\src\\Application\\bin\\Debug\\net8.0\\Application.deps.json,C:\\Temp\\Parcial4\\src\\Application\\UseCases\\CreateOrder.cs"
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "22222222-2222-2222-2222-222222222222.sonar.cs.scanner.telemetry",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.projectKey",
+      "value": "BadCleanArch:33333333-3333-3333-3333-333333333333"
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.projectName",
+      "value": "Infrastructure"
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.projectBaseDir",
+      "value": "C:\\Temp\\Parcial4\\src\\Infrastructure"
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.working.directory",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\.sonar\\mod2"
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.sources",
+      "value": "C:\\Temp\\Parcial4\\src\\Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json,C:\\Temp\\Parcial4\\src\\Infrastructure\\obj\\project.assets.json,C:\\Temp\\Parcial4\\src\\Infrastructure\\bin\\Debug\\net8.0\\Infrastructure.deps.json,C:\\Temp\\Parcial4\\src\\Infrastructure\\Data\\BadDb.cs,C:\\Temp\\Parcial4\\src\\Infrastructure\\Logging\\ConsoleLogger.cs,C:\\Temp\\Parcial4\\src\\Infrastructure\\Logging\\Logger.cs,C:\\Temp\\Parcial4\\src\\Infrastructure\\Repositories\\OrderRepository.cs"
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\2"
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\2\\Issues.json"
+    },
+    {
+      "key": "33333333-3333-3333-3333-333333333333.sonar.cs.scanner.telemetry",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\2\\Telemetry.json"
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.projectKey",
+      "value": "BadCleanArch:55555555-5555-5555-5555-555555555555"
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.projectName",
+      "value": "Tests"
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.projectBaseDir",
+      "value": "C:\\Temp\\Parcial4\\tests"
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.working.directory",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\.sonar\\mod3"
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.tests",
+      "value": "C:\\Temp\\Parcial4\\tests\\obj\\project.assets.json,C:\\Temp\\Parcial4\\tests\\obj\\Tests.csproj.nuget.dgspec.json,C:\\Temp\\Parcial4\\tests\\bin\\Debug\\net8.0\\Tests.deps.json,C:\\Temp\\Parcial4\\tests\\bin\\Debug\\net8.0\\Tests.runtimeconfig.json,C:\\Temp\\Parcial4\\tests\\OrderTests.cs"
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\3"
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\3\\Issues.json"
+    },
+    {
+      "key": "55555555-5555-5555-5555-555555555555.sonar.cs.scanner.telemetry",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\3\\Telemetry.json"
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.projectKey",
+      "value": "BadCleanArch:44444444-4444-4444-4444-444444444444"
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.projectName",
+      "value": "WebApi"
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.projectBaseDir",
+      "value": "C:\\Temp\\Parcial4\\src\\WebApi"
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.working.directory",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\.sonar\\mod4"
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.sources",
+      "value": "C:\\Temp\\Parcial4\\src\\WebApi\\appsettings.json,C:\\Temp\\Parcial4\\src\\WebApi\\obj\\project.assets.json,C:\\Temp\\Parcial4\\src\\WebApi\\obj\\WebApi.csproj.nuget.dgspec.json,C:\\Temp\\Parcial4\\src\\WebApi\\Properties\\launchSettings.json,C:\\Temp\\Parcial4\\src\\WebApi\\bin\\Debug\\net8.0\\appsettings.json,C:\\Temp\\Parcial4\\src\\WebApi\\bin\\Debug\\net8.0\\WebApi.deps.json,C:\\Temp\\Parcial4\\src\\WebApi\\bin\\Debug\\net8.0\\WebApi.runtimeconfig.json,C:\\Temp\\Parcial4\\src\\WebApi\\bin\\Debug\\net8.0\\WebApi.staticwebassets.endpoints.json,C:\\Temp\\Parcial4\\src\\WebApi\\obj\\Debug\\net8.0\\rjsmcshtml.dswa.cache.json,C:\\Temp\\Parcial4\\src\\WebApi\\obj\\Debug\\net8.0\\rjsmrazor.dswa.cache.json,C:\\Temp\\Parcial4\\src\\WebApi\\obj\\Debug\\net8.0\\rpswa.dswa.cache.json,C:\\Temp\\Parcial4\\src\\WebApi\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json,C:\\Temp\\Parcial4\\src\\WebApi\\obj\\Debug\\net8.0\\staticwebassets.build.json,C:\\Temp\\Parcial4\\src\\WebApi\\Controllers\\OrdersController.cs,C:\\Temp\\Parcial4\\src\\WebApi\\Program.cs,C:\\Temp\\Parcial4\\src\\WebApi\\obj\\Debug\\net8.0\\WebApi.GlobalUsings.g.cs,\"C:\\Temp\\Parcial4\\src\\WebApi\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",C:\\Temp\\Parcial4\\src\\WebApi\\obj\\Debug\\net8.0\\WebApi.AssemblyInfo.cs"
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\4"
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\4\\Issues.json"
+    },
+    {
+      "key": "44444444-4444-4444-4444-444444444444.sonar.cs.scanner.telemetry",
+      "value": "C:\\Temp\\Parcial4\\.sonarqube\\out\\4\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.qualitygate.wait",
+      "value": "false"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

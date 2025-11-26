@@ -1,0 +1,1 @@
+Roslyn version: 4.14.0.0Language version: CSharp12!Concurrent execution: enabled‚~File 'C:\Temp\Parcial4\src\Domain\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs' was recognized as generatedjfFile 'C:\Temp\Parcial4\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs' was recognized as generated

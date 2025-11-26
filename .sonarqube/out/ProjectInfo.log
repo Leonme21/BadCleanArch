@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+C:\Temp\Parcial4\src\Domain\Domain.csproj
+C:\Temp\Parcial4\src\Application\Application.csproj
+C:\Temp\Parcial4\src\Infrastructure\Infrastructure.csproj
+C:\Temp\Parcial4\src\WebApi\WebApi.csproj
+
+
+Test projects
+---------------------------------------
+C:\Temp\Parcial4\tests\Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
